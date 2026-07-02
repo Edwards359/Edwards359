@@ -78,6 +78,14 @@ RAG‑ассистент с двумя бэкендами (OpenAI / GigaChat), �
 Прототип AI‑ассистента в Telegram с разными LLM‑провайдерами — быстрый путь к “ассистенту в мессенджере”.  
 → Репозиторий: https://github.com/Edwards359/telegram-bot-assistant_ed  
 
+### 🔹 Excel/CSV Analyst  
+Локальный анализ CSV/XLSX-выгрузок: агрегаты по процессам, SVG-графики, проверка качества данных — без ИИ и без сети. 4 автотеста, 100 000 синтетических строк обрабатываются ~2,3 сек.  
+→ Репозиторий: https://github.com/Edwards359/excel-csv-analyst  
+
+### 🔹 Intake ROI Bot  
+Telegram/VK-бот для ниши, где нельзя отправлять данные в зарубежные ИИ-сервисы (152-ФЗ): считает экономию от автоматизации по детерминированной формуле и объясняет риски. 29 автотестов.  
+→ Репозиторий: https://github.com/Edwards359/intake-roi-bot  
+
 ### 🔹 Новые AI‑проекты линейки ассистентов  
 
 - **RAG Document Assistant** — RAG‑ассистент для поиска по документам и контекстных ответов.  
@@ -109,6 +117,6 @@ RAG‑ассистент с двумя бэкендами (OpenAI / GigaChat), �
 
 **Контакты**
 
-- Telegram: `@YOUR_TELEGRAM`  
-- Email: `you@example.com`  
+- Telegram: [@FigVam359](https://t.me/FigVam359)  
+- Email: [edwards359@yandex.ru](mailto:edwards359@yandex.ru)  
 - GitHub: https://github.com/Edwards359
